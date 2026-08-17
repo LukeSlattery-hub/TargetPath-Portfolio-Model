@@ -533,3 +533,4 @@ Past performance does not guarantee future results.
 Benchmark names are referenced solely to identify modeled market exposures. No affiliation with or endorsement by any index provider, financial institution, university, or other third party is implied.
 
 © 2026 Luke Slattery. All rights reserved.
+Last updated: August 2026
